@@ -1,0 +1,6 @@
+﻿  test.c
+F:\C语言\wk\new class\gitee\test_c\题目\关机程序（第三次写）\test.c(13,7): warning C4013: “strcmp”未定义；假设外部返回 int
+F:\C语言\wk\new class\gitee\test_c\题目\关机程序（第三次写）\test.c(22,11): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+F:\C语言\wk\new class\gitee\test_c\题目\关机程序（第三次写）\test.c(22,11): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+F:\C语言\wk\new class\gitee\test_c\题目\关机程序（第三次写）\test.c(22,11): message : 缺失的可变参数 1 为格式字符串“%d”所需
+  关机程序（第三次写）.vcxproj -> F:\C语言\wk\new class\gitee\test_c\题目\关机程序（第三次写）\x64\Debug\关机程序（第三次写）.exe
