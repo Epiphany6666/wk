@@ -1,0 +1,4 @@
+﻿  game.c
+F:\C语言\wk\new class\gitee\test_c\题目\三子棋（边学边敲）\game.c(46,27): warning C4474: printf: 格式字符串中传递的参数太多
+F:\C语言\wk\new class\gitee\test_c\题目\三子棋（边学边敲）\game.c(46,27): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  三子棋（边学边敲）.vcxproj -> F:\C语言\wk\new class\gitee\test_c\题目\三子棋（边学边敲）\x64\Debug\三子棋（边学边敲）.exe
