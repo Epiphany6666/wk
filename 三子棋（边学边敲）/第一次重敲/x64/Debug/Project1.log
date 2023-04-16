@@ -1,0 +1,11 @@
+﻿  test.c
+F:\C语言\wk\new class\gitee\test_c\题目\三子棋（边学边敲）\第一次重敲\test.c(15,12): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+F:\C语言\wk\new class\gitee\test_c\题目\三子棋（边学边敲）\第一次重敲\test.c(16,15): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+F:\C语言\wk\new class\gitee\test_c\题目\三子棋（边学边敲）\第一次重敲\test.c(61,14): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+F:\C语言\wk\new class\gitee\test_c\题目\三子棋（边学边敲）\第一次重敲\test.c(63,16): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+F:\C语言\wk\new class\gitee\test_c\题目\三子棋（边学边敲）\第一次重敲\test.c(68,16): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+F:\C语言\wk\new class\gitee\test_c\题目\三子棋（边学边敲）\第一次重敲\test.c(71,16): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+F:\C语言\wk\new class\gitee\test_c\题目\三子棋（边学边敲）\第一次重敲\test.c(72,16): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+F:\C语言\wk\new class\gitee\test_c\题目\三子棋（边学边敲）\第一次重敲\test.c(77,16): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+F:\C语言\wk\new class\gitee\test_c\题目\三子棋（边学边敲）\第一次重敲\test.c(91,15): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+  Project1.vcxproj -> F:\C语言\wk\new class\gitee\test_c\题目\三子棋（边学边敲）\第一次重敲\x64\Debug\第一次重敲.exe
