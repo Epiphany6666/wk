@@ -1,0 +1,19 @@
+﻿  game.c
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(1,1): warning C4828: 文件包含在偏移 0x95c 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(57,1): error C2091: 函数返回函数
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(58,15): error C2065: “board”: 未声明的标识符
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(58,21): error C2109: 下标要求数组或指针类型
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(59,8): error C2065: “board”: 未声明的标识符
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(59,14): error C2109: 下标要求数组或指针类型
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(60,8): error C2065: “board”: 未声明的标识符
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(60,14): error C2109: 下标要求数组或指针类型
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(61,8): error C2065: “board”: 未声明的标识符
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(61,14): error C2109: 下标要求数组或指针类型
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(62,8): error C2065: “board”: 未声明的标识符
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(62,14): error C2109: 下标要求数组或指针类型
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(63,8): error C2065: “board”: 未声明的标识符
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(63,10): error C2109: 下标要求数组或指针类型
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(64,8): error C2065: “board”: 未声明的标识符
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(64,14): error C2109: 下标要求数组或指针类型
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(58,2): warning C4033: “get_mine_count”必须返回值
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\game.c(94,10): warning C4047: “初始化”:“int”与“int (__cdecl *)(char (*)[18],int,int)”的间接级别不同
