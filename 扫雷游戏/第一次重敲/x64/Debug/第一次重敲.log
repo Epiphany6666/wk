@@ -1,0 +1,6 @@
+﻿  game.c
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\第一次重敲\game.c(79,22): warning C4552: ”-“: 未使用表达式结果
+  test.c
+  正在生成代码...
+F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\第一次重敲\game.c(80): warning C4716: “get_mine_count”: 必须返回一个值
+  第一次重敲.vcxproj -> F:\C语言\wk\new class\gitee\test_c\题目\扫雷游戏\第一次重敲\x64\Debug\第一次重敲.exe
