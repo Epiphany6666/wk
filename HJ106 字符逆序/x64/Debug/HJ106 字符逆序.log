@@ -1,0 +1,4 @@
+﻿  test.c
+F:\C语言\wk\new class\gitee\test_c\题目\HJ106 字符逆序\test.c(32,2): warning C4013: “gets”未定义；假设外部返回 int
+F:\C语言\wk\new class\gitee\test_c\题目\HJ106 字符逆序\test.c(33,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  HJ106 字符逆序.vcxproj -> F:\C语言\wk\new class\gitee\test_c\题目\HJ106 字符逆序\x64\Debug\HJ106 字符逆序.exe
