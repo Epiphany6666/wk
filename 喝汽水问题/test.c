@@ -33,13 +33,10 @@ int main()
 			total += empty / 2;
 			empty = empty / 2 + empty % 2;
 		}
-	if (money > 0)
-		printf("%d\n", total);
-	else
-		printf("%d\n", 0);
+	printf("%d\n", total);
 }
 
-//¹æÂÉ£º2 * money - 1
+//Â¹Ã¦Ã‚Ã‰Â£Âº2 * money - 1
 if (money > 0)
 	printf("%d\n", 2 * money - 1);
 else
