@@ -1,0 +1,2 @@
+F:\C语言\wk\new class\gitee\test_c\题目\冒泡排序\x64\Debug\冒泡排序.exe
+E:\my\C语言\题目\冒泡排序\x64\Debug\冒泡排序.exe
