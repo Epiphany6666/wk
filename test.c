@@ -2,21 +2,33 @@
 #include<stdio.h>
 int main()
 {
-	int n = 0;
-	int i = 0;
-	int j = 0;
-	while (scanf("%d", &n) != EOF)
+	int a = 0;
+	int b = 0;
+	int c = 0;
+	int d = 0;
+	int e = 0;
+	for (a = 1; a <= 5; a++)
 	{
-		for (i = 0; i < n; i++)
+		for (b = 1; b <= 5; b++)
 		{
-			for (j = 0; j < n; j++)
+			for (c = 1; c <= 5; c++)
 			{
-				if (j == 0 || j == n - 1 || i == 0 || i == n - 1)
-					printf("* ");
-				else
-					printf("  ");
+				for (d = 1; d <= 5; d++)
+				{
+					for (e = 1; e <= 5; e++)
+					{
+						if ((((b == 2) + (a == 3)) == 1)
+							&& (((b == 2) + (e == 4)) == 1)
+							&& (((c == 1) + (d == 2)) == 1)
+							&& (((c == 5) + (d == 3)) == 1)
+							&& (((e == 4) + (a == 1)) == 1))
+						{
+							if (a * b * c * d * e == 120)
+								printf("%d %d %d %d %d\n", a, b, c, d, e);
+						}
+					}
+				}
 			}
-			printf("\n");
 		}
 	}
 	return 0;
