@@ -1,9 +1,13 @@
 #pragma once
 #define _CRT_SECURE_NO_WARNINGS
 #include<string.h>
+#include<assert.h>
 #include<stdio.h>
 #include<assert.h>
 #include<stdlib.h>
+#include<errno.h>
+#define DEFULT_SZ 3
+#define INC_SZ 2
 #define MAX 100
 #define MAX_NAME 20
 #define MAX_SEX 10
@@ -19,14 +23,25 @@ typedef struct PeoInfo
 	char addr[MAX_ADDR];
 }PeoInfo;
 
+//静态版本
+//typedef struct Contact
+//{
+//	PeoInfo data[MAX];//存放人的信息
+//	int count;//记录当前通讯录中实际人的人数
+//}Contact;
+
+//动态版本
 typedef struct Contact
 {
-	PeoInfo data[MAX];//存放人的信息
-	int count;//记录当前通讯录中实际人的人数
+	PeoInfo* data;
+	int count;
+	//当前通讯录的容量
+	int capacity;
 }Contact;
 
 //初始化通讯录
-void InitContact(Contact* pc);//这里con需要被修改，所以不能加const
+int InitContact(Contact* pc);//这里con需要被修改，所以不能加const
+void DestroyContact(Contact* pc);
 
 void AddContact(Contact* pc);
 

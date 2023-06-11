@@ -41,6 +41,13 @@ int main()
 		case 6:
 			SortContact(&con);
 			break;
+		case 7:
+			DestroyContact(&con);
+			printf("退出通讯录\n");
+			break;
+		default:
+			printf("选择错误\n");
+			break;
 		}
 	} while (input);
 	return 0;
